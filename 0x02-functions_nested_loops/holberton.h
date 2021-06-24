@@ -21,6 +21,7 @@ void print_times_table(int n);
 void print_spaces(int n);
 void print_zero(void);
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 
@@ -45,3 +46,5 @@ void print_zero(void);
 
 -UUU:----F1  holberton.h    All L1     (C/*l Abbrev) -----------------------------------------------------
 >>>>>>> 6e33a0a5106ce8e17a1c0044a6a033d9d857b006
+=======
+>>>>>>> 2017c673bac95b9821906157a78e9be9474cfabf
